@@ -1,29 +1,17 @@
 {
-<<<<<<< HEAD
-  "name": "proofpointapp",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "dependencies": {
-    "express": "^5.1.0"
-=======
   "name": "proofpoint-backend",
   "version": "1.0.0",
+  "description": "ProofPoint backend API service",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
+  "keywords": ["proofpoint", "backend", "api"],
+  "author": "shaunm1767-ui",
+  "license": "ISC",
+  "type": "commonjs",
   "dependencies": {
-    "express": "^4.21.2",
+    "express": "^5.1.0",
     "multer": "^2.0.2"
->>>>>>> 494b365 (Initial commit)
   }
 }
