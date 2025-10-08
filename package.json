@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "proofpointapp",
   "version": "1.0.0",
   "description": "",
@@ -13,5 +14,16 @@
   "type": "commonjs",
   "dependencies": {
     "express": "^5.1.0"
+=======
+  "name": "proofpoint-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "multer": "^2.0.2"
+>>>>>>> 494b365 (Initial commit)
   }
 }
